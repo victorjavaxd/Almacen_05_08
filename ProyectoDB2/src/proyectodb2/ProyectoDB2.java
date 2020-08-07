@@ -31,6 +31,9 @@ public class ProyectoDB2 {
         //-----------  LENINN------------
         String leninn="leninn";
         System.out.println("el valor es: "+leninn);
+        //-----------  victor david torres ramos------------
+        String victor="victor david torres ramos";
+        System.out.println("el valor es: "+victor);
         
         
 
